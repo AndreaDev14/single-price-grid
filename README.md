@@ -20,4 +20,4 @@
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@AndreaDev14](https://www.frontendmentor.io/profile/AndreaDev14)
-- Twitter - [Andreadev9](https://twitter.com/Andreadev9
+- Twitter - [Andreadev9](https://twitter.com/Andreadev9)
